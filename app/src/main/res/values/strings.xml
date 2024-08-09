@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Todo</string>
+    <string name="todo">Todo</string>
+    <string name="calendar">Calendar</string>
+    <string name="pomodoro">Pomodoro</string>
+    <string name="settings">Settings</string>
+</resources>
